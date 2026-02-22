@@ -24,17 +24,7 @@ I specialize in building interactive dashboards, writing optimized SQL queries, 
 💻 Programming: Python (Pandas, NumPy)  
 📈 Data Analysis: KPI Development, Dashboard Creation, Data Cleaning  
 
----
-
-## 📂 Featured Projects
-
-🔹 Sales Dashboard in Power BI  
-🔹 SQL Data Cleaning Project  
-🔹 Python Data Analysis (Pandas)  
-
-(Replace these with your real project links)
-
----
+--
 
 ## 📊 GitHub Stats
 
@@ -59,5 +49,4 @@ I specialize in building interactive dashboards, writing optimized SQL queries, 
 ## 📫 Connect With Me
 
 📧 Email: km038805@gmail.com  
-🔗 LinkedIn: (Add your LinkedIn link here)  
-🌍 Portfolio: (Add your portfolio link here)
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-k-56733a305?utm_source=share_via&utm_content=profile&utm_medium=member_android
