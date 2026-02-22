@@ -10,7 +10,7 @@ I specialize in building interactive dashboards, writing optimized SQL queries, 
 ## 🚀 About Me
 
 🔭 I’m currently working on improving my Data Analysis portfolio  
-🌱 I’m currently learning Advanced DAX, SQL Optimization & Machine Learning  
+🌱 I’m currently learning Advanced,SQL Optimization & Machine Learning  
 👯 I’m open to collaborating on Data Analytics projects  
 💬 Ask me about Power BI, SQL, Python, Data Visualization  
 ⚡ Fun fact: I believe data tells stories — and I love telling them 😄  
