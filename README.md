@@ -25,21 +25,6 @@ I specialize in building interactive dashboards, writing optimized SQL queries, 
 📈 Data Analysis: KPI Development, Dashboard Creation, Data Cleaning  
 
 --
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
-
----
-
 ## 👀 Visitors Count
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
